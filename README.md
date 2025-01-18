@@ -34,11 +34,9 @@ Drishti is a revolutionary assistive technology app designed to enhance the mobi
 
 ## Technologies Used
 
-- React Native for cross-platform app development
-- OpenCV for object recognition
-- Speech-to-Text API for voice interaction
-- Google Translate API for real-time translations
-
+- Programming Language: Python3, ReactJs 
+- Libraries: cv2, pyttsx3, ultralaytics, Threading Deep Translator, etc
+- Approach:  Object Detection using YOLOV8N, Translation using Deep Translator, Contextual Suggestions using openAI 
 
 ---
 
