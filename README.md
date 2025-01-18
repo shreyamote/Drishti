@@ -27,7 +27,6 @@ Drishti is a revolutionary assistive technology app designed to enhance the mobi
    ```bash
    git clone https://github.com/yourusername/drishti.git
    ```
-   ```
 3. Run the app:
    ```bash
     C:/Users/Python/Python312/python.exe c:/Users/shreya/esg/ObjectDetectionWithAssistantAndList/2.py  
